@@ -264,3 +264,4 @@ __marimo__/
 "data/processed/" 
 "*.jpg" 
 "*.jpeg" 
+"data/raw/hmnist_28_28_RGB.csv" 
